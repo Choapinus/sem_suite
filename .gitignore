@@ -2,3 +2,4 @@ CamVid_db/
 Test/
 models_checkpoints/
 sem_test/
+test_model_deeplabv3/
